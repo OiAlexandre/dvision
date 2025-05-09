@@ -102,9 +102,9 @@ try {
             </button>
             <div class="collapse navbar-collapse" id="navbarNav">
                 <ul class="navbar-nav ms-auto">
-                    <li class="nav-item"><a class="nav-link active" href="#">Dashboard</a></li>
+                    <li class="nav-item"><a class="nav-link active" href="index.php">Dashboard</a></li>
                     <li class="nav-item"><a class="nav-link" href="bills.php">Contas</a></li>
-                    <li class="nav-item"><a class="nav-link" href="#">Grupos</a></li>
+                    <li class="nav-item"><a class="nav-link" href="groups.php">Grupos</a></li>
                     <li class="nav-item"><a class="nav-link" href="logout.php">Sair</a></li>
                 </ul>
             </div>
